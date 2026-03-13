@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narreshtamilselvan" alt="narreshtamilselvan" /></a> </p>
 
--🎓 First Year **Cyber Security Student** 
+- 🎓 Undergraduate **Cyber Security Student** 
 
--🔐 Interested in **Ethical Hacking** & **Security Architure**
+- 🔐 Interested in **Ethical Hacking** & **Security Architure**
 
--🐍 Learning  **Cybersecurity Tools**  
+- 🐍 Learning  **Cybersecurity Tools**  
 
 - 🔭 I’m Building my career as **Cyber Security**
 
@@ -39,6 +39,7 @@
 🧠 **Currently Learning**
 
 - Networking fundamentals
+- Bug Bounting & Pen Testing
 - Data structures
 - Python scripting
 - Cybersecurity tools
