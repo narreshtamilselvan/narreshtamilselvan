@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narreshtamilselvan" alt="narreshtamilselvan" /></a> </p>
 
+-🎓 First Year **Cyber Security Student** 
+
+-🔐 Interested in **Ethical Hacking** & **Security Architure**
+
+-🐍 Learning  **Cybersecurity Tools**  
+
 - 🔭 I’m Building my career as **Cyber Security**
 
 - 🌱 I’m currently learning **Bug Bounting & Pen Testing**
@@ -13,7 +19,7 @@
 
 - I’m a skilled **AI graphic designer**
 
-- 💬 Ask me about **Technology**
+- 💬 Ask me about **Techie_Bytes**
 
 - 📫 How to reach me **narreshtamilselvan.tkns@gmail.com**
 
@@ -29,5 +35,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+🧠 **Currently Learning**
+
+- Networking fundamentals
+- Data structures
+- Python scripting
+- Cybersecurity tools
+- KaliLinux basics
+
+---
+
+🛠️ **Skills**
+
+- Python
+- Creative designing Tools
+- Networking basics
+- Git & GitHub
+- Cybersecurity fundamentals
+
+---
+
+🎯 **Goals**
+
+- Building practical cybersecurity tools
+- Contribute to open source
+- Become a cybersecurity professional
+- Overall security management
 
 
