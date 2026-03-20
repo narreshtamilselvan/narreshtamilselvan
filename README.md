@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Techie_Bytes**
 
-- 📫 How to reach me **narreshtamilselvan.tkns@gmail.com**
+- 📫 How to reach me **narreshtamilselvan@gmail.com**
 
 - My certificates **https://drive.google.com/drive/folders/11X0e_MYTkLHf-08boGGdOGQK2SospzsF**
 
