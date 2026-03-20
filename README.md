@@ -7,7 +7,7 @@
 
 - 🎓 Undergraduate **Cyber Security Student** 
 
-- 🔐 Interested in **Ethical Hacking** & **Security Architure**
+- 🔐 Interested in **Ethical Hacking** & **Security Architecture**
 
 - 🐍 Learning  **Cybersecurity Tools**  
 
