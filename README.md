@@ -13,7 +13,7 @@
 
 - 🔭 I’m Building my career as **Cyber Security**
 
-- 🌱 I’m currently learning **Bug Bounting & Pen Testing**
+- 🌱 I’m currently learning **NETWORKING AND FUNDAMENTALS**
 
 - 👯 I’m looking to collaborate on **Real time projects and internship's**
 
