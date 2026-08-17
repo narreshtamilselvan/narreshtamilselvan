@@ -32,7 +32,7 @@
 <a href="https://twitter.com/narresh_tamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narresh_tamil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/narresh tamilselvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narresh tamilselvan" height="30" width="40" /></a>
 <a href="https://fb.com/narresh tamilselvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="narresh tamilselvan" height="30" width="40" /></a>
-<a href="https://instagram.com/narresh_6966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narresh_6966" height="30" width="40" /></a>
+<a href="https://instagram.com/_.narresh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narresh_6966" height="30" width="40" /></a>
 </p>
 
 ---
